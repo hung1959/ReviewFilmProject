@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("ReviewFilmProjectWithLogin.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("ViewModel.Resource", IsApplication=true)]
 
-namespace ReviewFilmProjectWithLogin
+namespace ViewModel
 {
 	
 	
